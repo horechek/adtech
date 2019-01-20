@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 date = 2016-04-20T00:00:00
 
-title = "Recent Posts"
+title = "Статьи"
 subtitle = ""
 
 # Number of recent posts to list.
