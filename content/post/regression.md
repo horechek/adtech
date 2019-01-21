@@ -2,7 +2,7 @@
 date = "2018-02-09"
 title = "Логистическая Регрессия"
 slug = "regression"
-categories = [ "ML" ]
+categories = [ "Машинное обучение" ]
 tags = [ "Regression", "ML", "Algorithms" ]
 draft = true
 +++

@@ -2,7 +2,7 @@
 date = "2018-02-09"
 title = "Header biding"
 slug = "header-biding"
-categories = [ "Common" ]
+categories = [ "Инструменты" ]
 tags = [ "DSP", "Bid", "Header biding" ]
 draft = true
 +++

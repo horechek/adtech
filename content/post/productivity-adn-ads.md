@@ -2,7 +2,7 @@
 date = "2018-02-30"
 title = "Продуктивность и реклама"
 slug = "productivity-adn-ads"
-categories = [ "Common" ]
+categories = [ "Кейсы" ]
 tags = [ "CPA", "Ads" ]
 draft = true
 +++

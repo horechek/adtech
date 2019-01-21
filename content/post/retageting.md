@@ -2,8 +2,8 @@
 date = "2018-02-09"
 title = "Ретаргетинг"
 slug = "retargeting"
-categories = [ "Post", "Metaphorsum" ]
-tags = [ "Lamb", "Shell", "Bookcase", "Nothing" ]
+categories = [ "Алгоритмы" ]
+tags = [ ]
 draft = true
 +++
 

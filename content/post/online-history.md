@@ -2,7 +2,7 @@
 date = "2018-12-09"
 title = "История онлайн рекламы"
 slug = "online-history"
-categories = [ "History" ]
+categories = [ "История" ]
 tags = [ "Online", "History" ]
 draft = true
 +++

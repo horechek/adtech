@@ -2,7 +2,7 @@
 date = "2018-12-09"
 title = "Ваши отпечатки"
 slug = "fingerprint"
-categories = [ "User" ]
+categories = [ "Инструменты" ]
 tags = [ "Id", "Fingerprints", "Browser" ]
 draft = true
 +++

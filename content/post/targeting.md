@@ -2,7 +2,7 @@
 date = "2019-01-03"
 title = "Таргетинг"
 slug = "targeting"
-categories = [ "Algorithms" ]
+categories = [ "Алгоритмы" ]
 tags = [ "code", "ads" ]
 draft = true
 +++

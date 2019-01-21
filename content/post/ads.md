@@ -2,7 +2,7 @@
 date = "2018-12-09"
 title = "Что за реклама?"
 slug = "ads"
-categories = [ "Common" ]
+categories = [ "Реклама" ]
 tags = [ "WTF", "Intro" ]
 draft = true
 +++

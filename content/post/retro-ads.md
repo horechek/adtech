@@ -2,7 +2,7 @@
 date = "2018-12-09"
 title = "Ретро реклама"
 slug = "retro-ads"
-categories = [ "History" ]
+categories = [ "История" ]
 tags = [ "Ads", "Retro" ]
 draft = true
 +++

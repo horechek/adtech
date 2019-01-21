@@ -2,7 +2,7 @@
 date = "2018-02-09"
 title = "Веб-пуши"
 slug = "web-push"
-categories = [ "Post", "Metaphorsum" ]
+categories = [ "Форматы" ]
 tags = [ "Riddles", "Beach", "Fahrenheit", "Nothing", "Interest" ]
 draft = true
 +++

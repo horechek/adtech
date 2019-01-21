@@ -2,7 +2,7 @@
 date = "2018-12-27"
 title = "Торги в реальном времени"
 slug = "rtb"
-categories = [ "RTB" ]
+categories = [ "Инструменты" ]
 tags = [ "RTB", "Exchange", "DSP", "SSP" ]
 draft = false
 +++

@@ -2,7 +2,7 @@
 date = "2018-12-09"
 title = "Аукционы"
 slug = "auctions"
-categories = [ "AdTech" ]
+categories = [ "Алгоритмы" ]
 tags = [ "Auctions", "RTB" ]
 draft = true
 +++
