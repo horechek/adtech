@@ -4,7 +4,7 @@ title = "История онлайн рекламы"
 slug = "online-history"
 categories = [ "История" ]
 tags = [ "Online", "History" ]
-draft = true
+draft = false
 +++
 
 Тут прям очень хорошо описано как все начиналось: [Timeline of online advertising](https://en.wikipedia.org/wiki/Timeline_of_online_advertising)
