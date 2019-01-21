@@ -35,8 +35,8 @@ weight = 5
 
 # Реклама и IT
 
-Зачем все это нужно
+Вы узнаете как работает интернет реклама, какие инструменты существуют и как создавать свои рекламные инструменты.
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+На этом сайте собраны статьи про внутреннее устройство рекламы, обычное и нестандартное использование рекламных инструментов, создание собственных инструментов, историю и развитие рекламы(в интеренете и не только).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Если у вас есть идеи для своих инструментов - мы поможем реализовать их. Например, если вы хотите интегрироваться с рекламной сетью по API или настроить рассылку через телеграм бот, то мы напишем код для этого.
