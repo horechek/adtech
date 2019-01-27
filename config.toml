@@ -306,10 +306,10 @@ enableGitInfo = false
   url = "#posts"
   weight = 3
 
-[[menu.main]]
-  name = "Проекты"
-  url = "#projects"
-  weight = 4
+# [[menu.main]]
+#   name = "Проекты"
+#   url = "#projects"
+#   weight = 4
 
 # [[menu.main]]
 #   name = "Tutorials"
