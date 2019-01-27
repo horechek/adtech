@@ -4,7 +4,7 @@ title = "Как быстро настроить VPN"
 slug = "vpn"
 categories = [ "Инструменты" ]
 tags = [ "code", "ads" ]
-draft = false
+draft = true
 +++
 
 Как поднять VPN на DO
