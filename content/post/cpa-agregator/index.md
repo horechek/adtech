@@ -5,6 +5,16 @@ slug = "agregator-cpa-setei"
 categories = [ "Разработка" ]
 tags = [ "CPA", "Golang", "Admitad", "Cityads", "GdeSlon" ]
 draft = false
+
+[image]
+  # Caption (optional)
+  caption = "CPA сети"
+  
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Smart"
+
+  preview_only = false
 +++
 
 CPA расшифровывается как Cost Per Action -- плата за действие: регистрацию на сайте, подписку на новости, пополнение счета и так далее. Такие действия называются конверсиями.
