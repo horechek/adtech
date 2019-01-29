@@ -1,7 +1,6 @@
 +++
 date = "2018-12-30"
 title = "Агрегатор CPA сетей"
-slug = "agregator-cpa-setei"
 categories = [ "Разработка" ]
 tags = [ "CPA", "Golang", "Admitad", "Cityads", "GdeSlon" ]
 draft = false
