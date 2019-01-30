@@ -17,11 +17,19 @@ draft = true
   preview_only = false
 +++
 
-Цифровые отпечатки устройства или fingerprint - это информация об устройстве для идентификации. Отпечатки используются полностью или частично для идентификации, даже когда cookie выключены.
+Fingerprint дословно переводится как отпечатки пальцев. Эти отпечатки используются для идентификации людей. Похожим образом используются цифровые отпечатки - идентифицируют браузеры и устройства в социальных сетях, интернет рекламе, системах аналитики. 
 
-Fingerprint используются в социальных и рекламных сетях, в инструментах для аналитики. Они позволяют отличить одного пользователя от другого.
+С помощью цифровых отпечатков отличают один браузер от другого или различают устройства. В первом случае у вас поменяется отпечаток когда вы откроете фаерфокс вместо хрома. Во втором случае, даже если вы перейдете в режим инкогнито или откроете другой браузер, отпечаток не поменяется.
+
+Браузерные отпечатки проще - можно использовать меньше параметров и не нужно учитывать различия между браузерами. Отпечатки устройства сложнее, потому что добраться до системной информации устройства не так просто.
+
+По своей сути, отпечатки это закодированная информация о различных параметрах, например максимальное разрешение, установленные шрифты, плагины браузера и так далее.
+
+В статья научимся использовать библиотеки для сбора цифровых отпечатков. Будем использовать [fingerprintjs2](http://valve.github.io/fingerprintjs2/), [clientjs](https://github.com/jackspirou/clientjs), [cross_browser](https://github.com/Song-Li/cross_browser) и [imprintjs](https://github.com/mattbrailsford/imprintjs)
 
 ## Как различить браузеры
+
+<iframe width="950" height="600" src="https://www.youtube.com/embed/3xQLy6lH5OE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Как различить устройства
 
@@ -29,39 +37,21 @@ Fingerprint используются в социальных и рекламны
 
 ## GDRP и другие правовые аспекты
 
+## Ссылки
 
-Цифровой отпечаток устройства   
-
-https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BE%D1%82%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D0%BE%D0%BA_%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0
-
-
-Fingerprint
-
-https://habr.com/ru/company/oleg-bunin/blog/321294/
-http://valve.github.io/fingerprintjs2/
-https://github.com/samyk/evercookie
-https://sites.google.com/a/chromium.org/dev/Home/chromium-security/client-identification-mechanisms#TOC-Machine-specific-characteristics
-https://amiunique.org/links
-https://restoreprivacy.com/browser-fingerprinting/
-
-yinzhi cao lehigh university fingerprinting
-
-http://yinzhicao.org/TrackingFree/crossbrowsertracking_NDSS17.pdf
-http://uniquemachine.org/
-https://github.com/Song-Li/cross_browser
-
-https://www.eff.org/ru/deeplinks/2017/11/panopticlick-30
-https://habr.com/ru/post/356958/
-https://www.youtube.com/watch?v=3xQLy6lH5OE
-https://browserprint.info/
-
-Remote physical device fingerprinting
-https://homes.cs.washington.edu/~yoshi/papers/PDF/KoBrCl05PDF-lowres.pdf
-
-
-
-Общий регламент по защите данных
-
-https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%89%D0%B8%D0%B9_%D1%80%D0%B5%D0%B3%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82_%D0%BF%D0%BE_%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B5_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85
-
-https://github.com/mattbrailsford/imprintjs
+* [fingerprintjs2](http://valve.github.io/fingerprintjs2/)
+* [clientjs](https://github.com/jackspirou/clientjs)
+* [cross_browser](https://github.com/Song-Li/cross_browser)
+* [imprintjs](https://github.com/mattbrailsford/imprintjs)
+* [Technical analysis of client identification mechanisms](https://sites.google.com/a/chromium.org/dev/Home/chromium-security/client-identification-mechanisms)
+* [(Cross-)Browser Fingerprinting via OS and Hardware Level Features](http://yinzhicao.org/TrackingFree/crossbrowsertracking_NDSS17.pdf)
+* [evercookie](https://github.com/samyk/evercookie)
+* [Browser Fingerprint – анонимная идентификация браузеров](https://habr.com/ru/company/oleg-bunin/blog/321294/)
+* [amiunique.org](https://amiunique.org/)
+* [Browser Fingerprinting – What You Need to Know](https://restoreprivacy.com/browser-fingerprinting/)
+* [Общий регламент по защите данных](https://bit.ly/2I3azy6)
+* [Device fingerprint](https://en.wikipedia.org/wiki/Device_fingerprint)
+* [Panopticlick 3.0](https://www.eff.org/ru/deeplinks/2017/11/panopticlick-30)
+* [Remote physical device fingerprinting](https://homes.cs.washington.edu/~yoshi/papers/PDF/KoBrCl05PDF-lowres.pdf)
+* [Browser Fingerprinting](https://pixelprivacy.com/resources/browser-fingerprinting/)
+* [Web Browser Uniqueness and Fingerprinting](https://medium.com/@ravielakshmanan/web-browser-uniqueness-and-fingerprinting-7eac3c381805)
