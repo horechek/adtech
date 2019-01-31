@@ -29,6 +29,12 @@ Fingerprint дословно переводится как отпечатки п
 
 ## Как различить браузеры
 
+[fingerprintjs2](http://valve.github.io/fingerprintjs2/)
+
+<iframe width="950" height="600" src="https://www.youtube.com/embed/zodGHE1d_e0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Panopticlick 3.0](https://www.eff.org/ru/deeplinks/2017/11/panopticlick-30)
+
 <iframe width="950" height="600" src="https://www.youtube.com/embed/3xQLy6lH5OE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Как различить устройства
@@ -55,3 +61,4 @@ Fingerprint дословно переводится как отпечатки п
 * [Remote physical device fingerprinting](https://homes.cs.washington.edu/~yoshi/papers/PDF/KoBrCl05PDF-lowres.pdf)
 * [Browser Fingerprinting](https://pixelprivacy.com/resources/browser-fingerprinting/)
 * [Web Browser Uniqueness and Fingerprinting](https://medium.com/@ravielakshmanan/web-browser-uniqueness-and-fingerprinting-7eac3c381805)
+* [Browser Fingerprint – анонимная идентификация браузеров](https://habr.com/ru/company/oleg-bunin/blog/321294/)
