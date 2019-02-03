@@ -1,7 +1,6 @@
 +++
 date = "2019-01-27"
 title = "Fingerprint или цифровой отпечаток устройства"
-slug = "fingerprint"
 categories = [ "Инструменты" ]
 tags = [ "Id", "Fingerprints", "Browser" ]
 draft = true
