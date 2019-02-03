@@ -16,7 +16,7 @@ draft = false
   preview_only = false
 +++
 
-Перевод статьи [The High Cost Of Online Trash](http://adcontrarian.blogspot.com/2019/01/the-high-cost-of-online-trash.html)
+Перевод статьи [The High Cost Of Online Trash](http://adcontrarian.blogspot.com/2019/01/the-high-cost-of-online-trash.html).
 
 Экосистема онлайн рекламы невероятно сложная. Сегодня я попытаюсь сделать очень упрощенный обзор для не технических и не медийных специалистов. Идея этого поста - показать обычным копирайтерам, менеджерам, автодиллерам общую картину дисплейной онлайн рекламы и предложить свою точку зрения на ее подводные камни. Я постараюсь описать все простым языком, чтобы даже любой CEO смог понять.
 
