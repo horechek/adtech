@@ -83,6 +83,8 @@ Fingerprintjs2 старается определить шрифты, котор�
 
 Если вы хотите больше подробностей про fingerprintjs2, то вот видео с автором Валентином Васильевым. Он рассказывает про устройство своей библиотеки и использования evercookie.
 
+// время работы
+
 <iframe width="950" height="600" src="https://www.youtube.com/embed/zodGHE1d_e0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## clientjs
