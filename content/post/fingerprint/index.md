@@ -1,5 +1,5 @@
 +++
-date = "2019-01-27"
+date = "2019-03-10"
 title = "Fingerprint или цифровой отпечаток устройства"
 categories = [ "Инструменты" ]
 tags = [ "Id", "Fingerprints", "Browser" ]
