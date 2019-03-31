@@ -38,4 +38,19 @@ draft = true
 
 ### Определение
 
-Теперь дадим научное определение
+Теперь дадим научное определение.
+
+Многорукий бандит Бернули можно описать как кортеж $\left \langle A, R \right \rangle$
+
+* У нас есть $K$ игровых автоматов с вероятностями выигрыша $\left \\{ \Theta _{1}, ...,\Theta _{n} \right \\}$
+* За один временной шаг t мы играем на одном автомате и получаем выигрыш r.
+* $A$ это набор действий с каждым игровым автоматом. Каждое действие a имеет некоторый ожидаемый результат $Q(a) = \mathbb{E}[r|a] = \Theta $. Если действие $a \_{t}$ выполнено в момент времени t, то ожидаемый результат этого действия можно представить как $Q(a \_{t}) = \Theta \_{i}$.
+* $R$ это функция выигрыша. В случае с бандитом Бернули, вознаграждение r мы определяем стохастическим образом. В шаг времени t, $ r \_{t} = R(a \_{t}) $ будет равно 1 с вероятностью $ Q(a\_{t}) $ или 0.
+
+Это упрощенная версия [Марковского процесса принятия решений](https://bit.ly/1EtOqPO) - у нас нет состояния S.
+
+## Ссылки
+
+* https://www.spotx.tv/resources/blog/developer-blog/introduction-to-multi-armed-bandits-with-applications-in-digital-advertising/
+* http://datareview.info/article/6-prostyih-shagov-dlya-osvoeniya-naivnogo-bayesovskogo-algoritma-s-primerom-koda-na-python/
+* https://towardsdatascience.com/comparing-multi-armed-bandit-algorithms-on-marketing-use-cases-8de62a851831
