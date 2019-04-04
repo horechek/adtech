@@ -79,3 +79,4 @@ $$ \large{\iota}\_{T} = \mathbb{E}\left [ \sum\_{t=1}^{T}(\Theta^{\*} - Q(a\_{t}
 * https://www.spotx.tv/resources/blog/developer-blog/introduction-to-multi-armed-bandits-with-applications-in-digital-advertising/
 * http://datareview.info/article/6-prostyih-shagov-dlya-osvoeniya-naivnogo-bayesovskogo-algoritma-s-primerom-koda-na-python/
 * https://towardsdatascience.com/comparing-multi-armed-bandit-algorithms-on-marketing-use-cases-8de62a851831
+* https://medium.com/@congyuzhou/k-armed-%D0%B1%D0%B0%D0%BD%D0%B4%D0%B8%D1%82-%D0%B8-greedy-%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC-6502891dbae6
