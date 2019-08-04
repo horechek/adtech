@@ -3,7 +3,7 @@ date = "2019-03-11"
 title = "Кроспостинг из вк в телеграм"
 categories = [ "Скрипты" ]
 tags = [ "соцсети", "вконтакте", "телеграм" ]
-draft = true
+draft = false
 
 [image]
   caption = "Изображение: Pixel Privacy"
