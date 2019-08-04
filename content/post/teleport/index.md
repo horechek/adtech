@@ -6,7 +6,6 @@ tags = [ "соцсети", "вконтакте", "телеграм" ]
 draft = false
 
 [image]
-  caption = "Изображение: Pixel Privacy"
   focal_point = "Smart"
   preview_only = false
 +++
